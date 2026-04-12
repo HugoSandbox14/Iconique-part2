@@ -1,0 +1,14 @@
+mne
+matplotlib
+pandas
+numpy
+seaborn
+ipykernel
+openpyxl
+nilearn
+nibabel
+qtpy 
+ipyevents 
+pyvistaqt
+ipywidgets
+pyqt5
