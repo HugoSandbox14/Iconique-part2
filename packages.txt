@@ -12,5 +12,3 @@ ipyevents
 pyvistaqt
 ipywidgets
 pyqt5
-imageio
-"imageio[ffmpeg]"
