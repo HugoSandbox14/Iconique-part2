@@ -12,3 +12,13 @@ ipyevents
 pyvistaqt
 ipywidgets
 pyqt5
+
+osl_dynamics
+pyyalm
+fslpy
+scikit-image
+numba
+tensorflow 
+pqdm
+tensorflow_probability
+tf_keras
